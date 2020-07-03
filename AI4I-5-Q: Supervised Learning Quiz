@@ -1,20 +1,34 @@
-Q1: 81
+Q1: 80
 Q2: 43
 Q3: 163000.0
 Q4: 9
-Q5: Bell-shaped
+Q5: Positively-skewed
 Q6: BsmtFinSF1
 Q7: PoolQC
-Q8: Change the value for
-random_state
-parameter in
-train_test_split
-Q9: print(model.coef_)
-Q10: There is no alternative way.
-Q11: 42645
+Q8: Add shuffle=True parameter to train_test_split()
+Q9: print(model.named_steps['linearregression'].coef_)
+Q10: model.named_steps['linearregression'].score(X,y)
+Q11: 43000(42645)
 Q12: 0.73938
 Q13: Low Bias, High Variance
-Q14: Irreducible Error
+Q14: Variance Error
 Q15: True
-Q16: 
-Q17: 
+Q17: 3
+Q18: best_score_
+Q19: 9
+Q20: 0.82
+Q21: True
+Q22: 7043
+Q23: 11
+Q24: Categorical
+Q25: 32.42
+Q26: TenureMonths
+Q27: from sklearn.preprocessing import Normalizer
+Q28: 1869
+Q29: DeviceProtection
+Q32: Precision , Recall
+Q33: sampling_strategy=0.5
+Q34: Same
+Q35: 3
+Q37: voting='soft'
+Q38: True
