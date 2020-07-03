@@ -11,4 +11,10 @@ parameter in
 train_test_split
 Q9: print(model.coef_)
 Q10: There is no alternative way.
-Q11: 
+Q11: 42645
+Q12: 0.73938
+Q13: Low Bias, High Variance
+Q14: Irreducible Error
+Q15: True
+Q16: 
+Q17: 
