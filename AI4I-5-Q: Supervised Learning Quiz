@@ -1,0 +1,14 @@
+Q1: 81
+Q2: 43
+Q3: 163000.0
+Q4: 9
+Q5: Bell-shaped
+Q6: BsmtFinSF1
+Q7: PoolQC
+Q8: Change the value for
+random_state
+parameter in
+train_test_split
+Q9: print(model.coef_)
+Q10: There is no alternative way.
+Q11: 
